@@ -1,4 +1,3 @@
 # Hi, I'm Daniel, an IT Professional.
-I have a strong foundation in troubleshooting, networking, and technical support. <br/>
-I am seeking entry-level roles in help desk, IT support, desktop support, or similar positions, where I can apply my knowledge and grow my skills. <br/>
-I am eager to learn new technologies, assist users effectively, and contribute reliable IT solutions. <br/>
+I have a strong foundation in troubleshooting, networking, and technical support.
+I'm eager to assist users effectively and contribute reliable IT solutions. <br/>
