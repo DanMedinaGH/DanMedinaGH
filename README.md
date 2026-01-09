@@ -10,4 +10,6 @@ I'm eager to assist users effectively and contribute reliable IT solutions.
  
 - ### Microsoft 365
   - [Office 365 Shared Mailbox, Distribution Group, and Message Trace](https://github.com/DanMedinaGH/office365-shared-mailbox-dg-message-trace)
+
+- ### Entra ID
   - [Entra ID User Management](https://github.com/DanMedinaGH/microsoft-entra-id-user-management)
